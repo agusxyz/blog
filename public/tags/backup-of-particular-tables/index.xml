@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backup of particular tables on Agus Wijiyanto</title>
+    <link>http://example.org/tags/backup-of-particular-tables/</link>
+    <description>Recent content in Backup of particular tables on Agus Wijiyanto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jul 2017 19:41:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/backup-of-particular-tables/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Backup of particular tables in SQL Server using T-SQL Script</title>
+      <link>http://example.org/docs/backup-of-particular-tables-in-sql/</link>
+      <pubDate>Thu, 06 Jul 2017 19:41:00 -0700</pubDate>
+      
+      <guid>http://example.org/docs/backup-of-particular-tables-in-sql/</guid>
+      <description>Questions
+I want to take a backup of particular tables available in my database in .bak file And all these should be done using T-SQL script
+Answers
+Backup Types are dependent on SQL Server Recovery Model. Every recovery model lets you back up whole or partial SQL Server database or individual files or filegroups of the database. Table-level backup cannot be created, there is no such option. But there is a workaround for this</description>
+    </item>
+    
+  </channel>
+</rss>

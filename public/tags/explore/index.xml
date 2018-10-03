@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Explore on Agus Wijiyanto</title>
+    <link>http://example.org/tags/explore/</link>
+    <description>Recent content in Explore on Agus Wijiyanto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Jun 2017 03:34:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/explore/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Add, Edit, and Delete in DataGridView with Paging</title>
+      <link>http://example.org/docs/add-edit-and-delete-in-datagridview/</link>
+      <pubDate>Mon, 05 Jun 2017 03:34:00 -0700</pubDate>
+      
+      <guid>http://example.org/docs/add-edit-and-delete-in-datagridview/</guid>
+      <description>Introduction
+The article, or rather code snippet, demonstrates a simple application to insert, update, and delete using a DataGridView. The application uses an asynchronous architecture for most of the calls to the database. This is to show that without a hanging UI, we can allow the user to continue with his tasks. The application has the following outline:
+ Get all SQL Server instances from the network.
+ Get all databases from the selected instance.</description>
+    </item>
+    
+  </channel>
+</rss>

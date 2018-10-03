@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sql Server on Agus Wijiyanto</title>
+    <link>http://example.org/tags/sql-server/</link>
+    <description>Recent content in Sql Server on Agus Wijiyanto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Apr 2018 05:19:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/sql-server/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ApexSQL Refactor Query Beauty</title>
+      <link>http://example.org/docs/apexsql-refactor-query-beauty/</link>
+      <pubDate>Tue, 17 Apr 2018 05:19:00 -0700</pubDate>
+      
+      <guid>http://example.org/docs/apexsql-refactor-query-beauty/</guid>
+      <description>Features ormat and refactor SQL code and objects
+
+Impact analysis Preview the impact of changes with difference highlighting
+
+Formatting profiles Save and quickly toggle between different sets of formatting settings
+
+Obfuscation Make SQL code less readable
+
+S
+Source &amp;amp; Download
+My XML Format Next Tips: SQL auto-complete</description>
+    </item>
+    
+    <item>
+      <title>Backup of particular tables in SQL Server using T-SQL Script</title>
+      <link>http://example.org/docs/backup-of-particular-tables-in-sql/</link>
+      <pubDate>Thu, 06 Jul 2017 19:41:00 -0700</pubDate>
+      
+      <guid>http://example.org/docs/backup-of-particular-tables-in-sql/</guid>
+      <description>Questions
+I want to take a backup of particular tables available in my database in .bak file And all these should be done using T-SQL script
+Answers
+Backup Types are dependent on SQL Server Recovery Model. Every recovery model lets you back up whole or partial SQL Server database or individual files or filegroups of the database. Table-level backup cannot be created, there is no such option. But there is a workaround for this</description>
+    </item>
+    
+    <item>
+      <title>ApexSQL Refactor SQL Server</title>
+      <link>http://example.org/docs/apexsql-refactor-sql-server/</link>
+      <pubDate>Thu, 16 Mar 2017 00:31:00 -0700</pubDate>
+      
+      <guid>http://example.org/docs/apexsql-refactor-sql-server/</guid>
+      <description>Features ApexSQL Refactor  Format SQL with over 160 options
+ Qualify objects and expand wildcards
+ Encapsulate SQL into procedures
+ Add surrogate keys
+ Replace one-to-many relationships
+ Change procedure parameters
+ Safely rename SQL objects
+ Locate &amp;amp; highlight unused variables
+ Format SQL objects
+ Obfuscate SQL
+  Link ApexSQL Refactor : apexsql_refactor
+My Template xml ApexSQL Refactor</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Agus Wijiyanto</title>
+    <link>http://example.org/tags/javascript/</link>
+    <description>Recent content in Javascript on Agus Wijiyanto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Apr 2017 00:07:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Call Back Ext JS (hide,show)</title>
+      <link>http://example.org/docs/call-back-ext-js-hideshow/</link>
+      <pubDate>Thu, 13 Apr 2017 00:07:00 -0700</pubDate>
+      
+      <guid>http://example.org/docs/call-back-ext-js-hideshow/</guid>
+      <description>Cara hide,show,set value ExtJs Call Back
+Get ID Componen Callback and hide
+[java]
+if(docflow_seq==5) {
+Ext.getCmp(&amp;lsquo;button-1031&amp;rsquo;).hide();
+}
+Ext.getCmp(&amp;lsquo;buttonsavedetailsform&amp;rsquo;).hide();
+try{
+_COM_btnprint.setDisabled(false);
+}catch(e){}
+[/java]
+Get ID Componen Callback and hide (graylite)
+[java]
+_COM_flowhistory.show().setDisabled(false);
+if(doc_term==0) {
+_COM_doc_cashpaid.setValue(1);
+}else{
+_COM_doc_cashpaid.setValue(0);
+}
+if (docflow_seq==10) {
+_COM_btncop.show().setDisabled(false);
+} else {
+_COM_btncop.show().setDisabled(false);
+if (docflow_seq&amp;lt;10) { _COM_rejournal.show().setDisabled(true); }
+}
+if(!window.openlink){
+window.openlink = function(promoid){
+OPENLINK(&amp;lsquo;http://&amp;lsquo;+window.location.host+&amp;rsquo;/web/application/index.php/details/index?code=Form.Sales.Promotion&amp;amp;mode=open&amp;amp;doc_id=&amp;lsquo;+promoid,1,&amp;lsquo;Sales Promotion&amp;rsquo;)
+}
+}
+[/java]
+inline if in JavaScript
+condition==1 ? true : false
+[java]</description>
+    </item>
+    
+  </channel>
+</rss>

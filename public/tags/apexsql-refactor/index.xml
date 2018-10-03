@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ApexSQL Refactor on Agus Wijiyanto</title>
+    <link>http://example.org/tags/apexsql-refactor/</link>
+    <description>Recent content in ApexSQL Refactor on Agus Wijiyanto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Apr 2018 05:19:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/apexsql-refactor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ApexSQL Refactor Query Beauty</title>
+      <link>http://example.org/docs/apexsql-refactor-query-beauty/</link>
+      <pubDate>Tue, 17 Apr 2018 05:19:00 -0700</pubDate>
+      
+      <guid>http://example.org/docs/apexsql-refactor-query-beauty/</guid>
+      <description>Features ormat and refactor SQL code and objects
+
+Impact analysis Preview the impact of changes with difference highlighting
+
+Formatting profiles Save and quickly toggle between different sets of formatting settings
+
+Obfuscation Make SQL code less readable
+
+S
+Source &amp;amp; Download
+My XML Format Next Tips: SQL auto-complete</description>
+    </item>
+    
+  </channel>
+</rss>

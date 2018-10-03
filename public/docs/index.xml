@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on Agus Wijiyanto</title>
+    <link>http://example.org/docs/</link>
+    <description>Recent content in Documentation on Agus Wijiyanto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Apr 2018 23:16:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artemia Makanan Bergisi buat si Ikan</title>
+      <link>http://example.org/docs/artemia-makanan-bergisi-buat-si-ikan/</link>
+      <pubDate>Thu, 19 Apr 2018 23:16:00 -0700</pubDate>
+      
+      <guid>http://example.org/docs/artemia-makanan-bergisi-buat-si-ikan/</guid>
+      <description>Sera Artemia-mix adalah sejenis udang primitif. Artemia hidup planktonik di persiran yang berkadar garam tinggi, sedangkan suhu yang dikehendaki antara 25°C-30°C.
+Artemia sebagai plankton tidak dapat mempertahankan diri terhadap pemangsa musuh-musuhnya sebab tidak mempunyai cara untuk membela diri. Satu - satunya cara untuk menghindarkan diri dari pemangsa adalah anugerah alloh yang berupa lingkungan hidup berkadar garam tinggi.
+Artemia dewasa beratnya mencapai 10 mg dan panjangnya mencapai 1-2 cm. secara alami makanan artemia adalah sisa-sisa jasad hidup yang sedang menghancur, ganggang renik, bakteri, dan cendawan.</description>
+    </item>
+    
+    <item>
+      <title>ApexSQL Refactor Query Beauty</title>
+      <link>http://example.org/docs/apexsql-refactor-query-beauty/</link>
+      <pubDate>Tue, 17 Apr 2018 05:19:00 -0700</pubDate>
+      
+      <guid>http://example.org/docs/apexsql-refactor-query-beauty/</guid>
+      <description>Features ormat and refactor SQL code and objects
+
+Impact analysis Preview the impact of changes with difference highlighting
+
+Formatting profiles Save and quickly toggle between different sets of formatting settings
+
+Obfuscation Make SQL code less readable
+
+S
+Source &amp;amp; Download
+My XML Format Next Tips: SQL auto-complete</description>
+    </item>
+    
+    <item>
+      <title>Backup of particular tables in SQL Server using T-SQL Script</title>
+      <link>http://example.org/docs/backup-of-particular-tables-in-sql/</link>
+      <pubDate>Thu, 06 Jul 2017 19:41:00 -0700</pubDate>
+      
+      <guid>http://example.org/docs/backup-of-particular-tables-in-sql/</guid>
+      <description>Questions
+I want to take a backup of particular tables available in my database in .bak file And all these should be done using T-SQL script
+Answers
+Backup Types are dependent on SQL Server Recovery Model. Every recovery model lets you back up whole or partial SQL Server database or individual files or filegroups of the database. Table-level backup cannot be created, there is no such option. But there is a workaround for this</description>
+    </item>
+    
+    <item>
+      <title>CARA MEMBUAT FORM LOGIN SEDERHANA DENGAN KONEKSI DATABASE PADA C#</title>
+      <link>http://example.org/docs/cara-membuat-form-login-sederhana/</link>
+      <pubDate>Wed, 07 Jun 2017 18:26:00 -0700</pubDate>
+      
+      <guid>http://example.org/docs/cara-membuat-form-login-sederhana/</guid>
+      <description>Pertama yaitu buat kelas Koneksi.cs dengan klik kanan pada project Anda =&amp;gt; Pilih Add Class =&amp;gt; Beri nama dengan Koneksi dan ketikkan kode berikut nama databasenya disesuaikan :
+[csharp]
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Data.SqlClient;
+namespace KeretaApi
+{
+class Koneksi
+{
+static string conn;
+public static SqlConnection Conn
+{
+get
+{
+return new SqlConnection(conn);
+}
+}
+static Koneksi()
+{
+string connStr = &amp;ldquo;server=localhost;&amp;rdquo; +
+&amp;ldquo;database=KeretaApi;&amp;rdquo; +</description>
+    </item>
+    
+    <item>
+      <title>Add, Edit, and Delete in DataGridView with Paging</title>
+      <link>http://example.org/docs/add-edit-and-delete-in-datagridview/</link>
+      <pubDate>Mon, 05 Jun 2017 03:34:00 -0700</pubDate>
+      
+      <guid>http://example.org/docs/add-edit-and-delete-in-datagridview/</guid>
+      <description>Introduction
+The article, or rather code snippet, demonstrates a simple application to insert, update, and delete using a DataGridView. The application uses an asynchronous architecture for most of the calls to the database. This is to show that without a hanging UI, we can allow the user to continue with his tasks. The application has the following outline:
+ Get all SQL Server instances from the network.
+ Get all databases from the selected instance.</description>
+    </item>
+    
+    <item>
+      <title>Comparison of NULLIF and ISNULL Sql Server</title>
+      <link>http://example.org/docs/comparison-of-nullif-and-isnull-sql/</link>
+      <pubDate>Wed, 17 May 2017 20:14:00 -0700</pubDate>
+      
+      <guid>http://example.org/docs/comparison-of-nullif-and-isnull-sql/</guid>
+      <description>NULLIF ISNULL Comparison        NULLIF Returns a null value if the two specified expressions are equal.
+Syntax :
+NULLIF ( expression , expression )
+Arguments :
+expression :Is any valid scalar expression.
+ISNULL Replaces NULL with the specified replacement value.
+Syntax :
+ISNULL ( check_expression , replacement_value )
+Arguments :
+check_expression : Is the expression to be checked for NULL.</description>
+    </item>
+    
+    <item>
+      <title>Call Back Ext JS (hide,show)</title>
+      <link>http://example.org/docs/call-back-ext-js-hideshow/</link>
+      <pubDate>Thu, 13 Apr 2017 00:07:00 -0700</pubDate>
+      
+      <guid>http://example.org/docs/call-back-ext-js-hideshow/</guid>
+      <description>Cara hide,show,set value ExtJs Call Back
+Get ID Componen Callback and hide
+[java]
+if(docflow_seq==5) {
+Ext.getCmp(&amp;lsquo;button-1031&amp;rsquo;).hide();
+}
+Ext.getCmp(&amp;lsquo;buttonsavedetailsform&amp;rsquo;).hide();
+try{
+_COM_btnprint.setDisabled(false);
+}catch(e){}
+[/java]
+Get ID Componen Callback and hide (graylite)
+[java]
+_COM_flowhistory.show().setDisabled(false);
+if(doc_term==0) {
+_COM_doc_cashpaid.setValue(1);
+}else{
+_COM_doc_cashpaid.setValue(0);
+}
+if (docflow_seq==10) {
+_COM_btncop.show().setDisabled(false);
+} else {
+_COM_btncop.show().setDisabled(false);
+if (docflow_seq&amp;lt;10) { _COM_rejournal.show().setDisabled(true); }
+}
+if(!window.openlink){
+window.openlink = function(promoid){
+OPENLINK(&amp;lsquo;http://&amp;lsquo;+window.location.host+&amp;rsquo;/web/application/index.php/details/index?code=Form.Sales.Promotion&amp;amp;mode=open&amp;amp;doc_id=&amp;lsquo;+promoid,1,&amp;lsquo;Sales Promotion&amp;rsquo;)
+}
+}
+[/java]
+inline if in JavaScript
+condition==1 ? true : false
+[java]</description>
+    </item>
+    
+    <item>
+      <title>ApexSQL Refactor SQL Server</title>
+      <link>http://example.org/docs/apexsql-refactor-sql-server/</link>
+      <pubDate>Thu, 16 Mar 2017 00:31:00 -0700</pubDate>
+      
+      <guid>http://example.org/docs/apexsql-refactor-sql-server/</guid>
+      <description>Features ApexSQL Refactor  Format SQL with over 160 options
+ Qualify objects and expand wildcards
+ Encapsulate SQL into procedures
+ Add surrogate keys
+ Replace one-to-many relationships
+ Change procedure parameters
+ Safely rename SQL objects
+ Locate &amp;amp; highlight unused variables
+ Format SQL objects
+ Obfuscate SQL
+  Link ApexSQL Refactor : apexsql_refactor
+My Template xml ApexSQL Refactor</description>
+    </item>
+    
+  </channel>
+</rss>
